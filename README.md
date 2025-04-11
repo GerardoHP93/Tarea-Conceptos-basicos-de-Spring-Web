@@ -48,12 +48,6 @@ Este proyecto presenta una evolución respecto al sistema original:
   - Paso de información entre controlador y vistas mediante el objeto Model
   - Manejo de mensajes de error en la interfaz
   - Interfaz visual mejorada con CSS
- 
-## Características principales 
-- Formulario que envía datos a /inicio mediante POST
-- Validación de campos requeridos
-- Mensaje de error condicional usando Thymeleaf (th:if, th:text)
-- Estilos CSS aplicados mediante recursos estáticos
 
 ##  Diagrama de Clases UML
 
