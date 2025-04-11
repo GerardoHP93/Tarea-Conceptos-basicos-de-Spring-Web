@@ -115,16 +115,17 @@ Formulario de inicio de sesión con soporte para mostrar mensajes de error. Util
 
 Página de bienvenida que muestra el nombre del usuario que ha iniciado sesión correctamente.
 
-## Características principales
-- Muestra el nombre de usuario usando la expresión ${username} de Thymeleaf
-- Botón para cerrar sesión que redirecciona a /inicio
-- Estilos CSS aplicados mediante recursos estáticos
-
 ### 4. Recursos Estáticos
 
 #### styles.css
 
 Archivo CSS que proporciona estilos para las páginas HTML.
+
+## Características principales
+- Muestra el nombre de usuario usando la expresión ${username} de Thymeleaf
+- Botón para cerrar sesión que redirecciona a /inicio
+- Estilos CSS aplicados mediante recursos estáticos
+
 
 ## Funcionamiento del Sistema
 
