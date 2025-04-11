@@ -1,5 +1,4 @@
-# Proyecto de Login en Spring Boot
-
+# Ejercicio: Conceptos básicos de Spring Web
 - **Nombre:** Gerardo Isidro Herrera Pacheco
 - **Matrícula:** ISC 68612
 - **Semestre:** 8vo
@@ -8,7 +7,7 @@
 - **Institución:** Universidad Autónoma de Campeche, Facultad de Ingeniería
 
 ## Descripción
-Este proyecto implementa un sistema de inicio de sesión básico utilizando Spring Boot. La aplicación presenta un formulario de login, aplicamos el FrontController visto en el parcial anterior, procesa las credenciales (simulado) y muestra una página de bienvenida o un mensaje de error según corresponda.
+Este ejercicio implementa un sistema de inicio de sesión básico utilizando Spring Boot. La aplicación presenta un formulario de login, aplicamos el FrontController visto en el parcial anterior, procesa las credenciales (simulado) y muestra una página de bienvenida o un mensaje de error según corresponda.
 Usando Thymeleaf como motor de plantillas para tener contenido dinámico.
 ## Estructura del Proyecto
 
